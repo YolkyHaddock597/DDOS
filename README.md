@@ -1,2 +1,2 @@
-# DDOS-1
+# DDOS
 My first DDOS project
