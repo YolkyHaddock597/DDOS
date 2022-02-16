@@ -4,8 +4,8 @@ import time
 from joblib import Parallel, delayed
 
 # Define here
-MY_CONST="JASON"
-IP_TO_CHECK=('23.92.18.130')
+MY_CONST="const"
+IP_TO_CHECK=('!Insert IP!')
 
 def main(i):
     #tic = time.perf_counter()
